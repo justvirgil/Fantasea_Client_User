@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="5dp"
+    app:cardCornerRadius="8dp"
+    android:layout_margin="16dp">
+    //used for travel destination
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/DestinationImageView"
+                android:layout_width="240dp"
+                android:layout_height="120dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="15dp"
+                app:srcCompat="@drawable/profile_icon" />
+
+            <TextView
+                android:id="@+id/DestinationIslandTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/DestinationImageView"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="10dp"
+                android:fontFamily="casual"
+                android:text="ISLAND NAME"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+            //activities
+
+            <TextView
+                android:id="@+id/DestinationActivitiesTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/DestinationIslandTextView"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="15dp"
+                android:fontFamily="casual"
+                android:text="Activities: "
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/DestinationActivitiesTextView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/DestinationIslandTextView"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="15dp"
+                android:layout_toRightOf="@id/DestinationActivitiesTextView"
+                android:fontFamily="casual"
+                android:text="Activities listed "
+                android:textSize="15sp" />
+            //agency id
+
+            <TextView
+                android:id="@+id/DestinationAgencyIDTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/DestinationActivitiesTextView"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="15dp"
+                android:fontFamily="casual"
+                android:text="Agency ID: "
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/DestinationAgencyIDTextView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/DestinationActivitiesTextView"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="15dp"
+                android:layout_toRightOf="@id/DestinationAgencyIDTextView"
+                android:fontFamily="casual"
+                android:text="Agency ID "
+                android:textSize="15sp" />
+
+            //agency name
+
+            <TextView
+                android:id="@+id/DestinationAgencyNameTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/DestinationAgencyIDTextView"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="15dp"
+                android:fontFamily="casual"
+                android:text="Agency Name: "
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/DestinationAgencyNameTextView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/DestinationAgencyIDTextView2"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="15dp"
+                android:layout_toRightOf="@id/DestinationAgencyNameTextView"
+                android:fontFamily="casual"
+                android:text="Agency name "
+                android:textSize="15sp" />
+            //base price
+
+            <TextView
+                android:id="@+id/DestinationPriceTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/DestinationAgencyNameTextView"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="15dp"
+                android:fontFamily="casual"
+                android:text="Base Price: "
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/DestinationPriceTextView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/DestinationAgencyNameTextView2"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="15dp"
+                android:layout_toRightOf="@id/DestinationPriceTextView"
+                android:fontFamily="casual"
+                android:text="Price "
+                android:textSize="15sp" />
+            //Destination Name
+
+            <TextView
+                android:id="@+id/DestinationNameTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/DestinationPriceTextView"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="15dp"
+                android:fontFamily="casual"
+                android:text="Destination Name: "
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/DestinationNameTextView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/DestinationPriceTextView2"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="15dp"
+                android:layout_toRightOf="@id/DestinationNameTextView"
+                android:fontFamily="casual"
+                android:text="Destination Name "
+                android:textSize="15sp" />
+            //Destination Province
+
+            <TextView
+                android:id="@+id/DestinationProvinceTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/DestinationNameTextView"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="15dp"
+                android:fontFamily="casual"
+                android:text="Destination Province: "
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/DestinationProvinceTextView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/DestinationNameTextView"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="15dp"
+                android:layout_toRightOf="@id/DestinationProvinceTextView"
+                android:fontFamily="casual"
+                android:text="Province "
+                android:textSize="15sp" />
+
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>

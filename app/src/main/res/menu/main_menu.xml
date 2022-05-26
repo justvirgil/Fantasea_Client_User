@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home_icon"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_travel"
+            android:icon="@drawable/travel_icon"
+            android:title="Travel Destination" />
+        <item
+            android:id="@+id/nav_transaction"
+            android:icon="@drawable/transaction_icon"
+            android:title="Transactions" />
+        <item
+            android:id="@+id/nav_notification"
+            android:icon="@drawable/notification_icon"
+            android:title="Notifications" />
+    </group>
+
+
+    <item android:title="Profile">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_profile"
+                    android:icon="@drawable/profile_icon"
+                    android:title="Profile" />
+                <item
+                    android:id="@+id/nav_logout"
+                    android:icon="@drawable/logout_icon"
+                    android:title="Logout" />
+            </group>
+        </menu>
+    </item>
+
+
+    <item android:title="Others">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_report"
+                    android:icon="@drawable/report_icon"
+                    android:title="Report" />
+                <item
+                    android:id="@+id/nav_about"
+                    android:icon="@drawable/aboutus_icon"
+                    android:title="About us" />
+                <item
+                    android:id="@+id/nav_share"
+                    android:icon="@drawable/share_icon"
+                    android:title="Share Us" />
+            </group>
+        </menu>
+    </item>
+</menu>

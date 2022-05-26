@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.androidintents.fantaseav2">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/fantasea"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FANTASEAV2">
+        <activity
+            android:name=".pumpBoatProfile"
+            android:exported="true" />
+        <activity
+            android:name=".NotificationMessage"
+            android:exported="true" />
+        <activity
+            android:name=".Transaction2"
+            android:exported="true" />
+        <activity
+            android:name=".feedback"
+            android:exported="true" />
+        <activity
+            android:name=".reportMessage"
+            android:exported="true" />
+        <activity
+            android:name=".Gallery2"
+            android:exported="true" />
+        <activity
+            android:name=".BookingReceipt"
+            android:exported="true" />
+        <activity
+            android:name=".PaymentMethod"
+            android:exported="true" />
+        <activity
+            android:name=".FromMessage"
+            android:exported="true" />
+        <activity
+            android:name=".CreateMessage"
+            android:exported="true" />
+        <activity
+            android:name=".Gallery"
+            android:exported="true" />
+        <activity
+            android:name=".google"
+            android:exported="true" />
+        <activity
+            android:name=".aboutus"
+            android:exported="true" />
+        <activity
+            android:name=".messages"
+            android:exported="true" />
+        <activity
+            android:name=".Notification"
+            android:exported="true" />
+        <activity
+            android:name=".booking"
+            android:exported="true" />
+        <activity
+            android:name=".Traveldestination"
+            android:exported="true" />
+        <activity
+            android:name=".profile"
+            android:exported="true" />
+        <activity
+            android:name=".Transaction"
+            android:exported="true" />
+        <activity
+            android:name=".Dashboard"
+            android:exported="true" />
+        <activity
+            android:name=".Recover"
+            android:exported="true" />
+        <activity
+            android:name=".SignUp"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

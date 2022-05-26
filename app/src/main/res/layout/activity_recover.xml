@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_tool_gradient"
+    tools:context=".Recover">
+
+    <TextView
+        android:id="@+id/recoverAccountText"
+        android:layout_width="299dp"
+        android:layout_height="50dp"
+        android:layout_margin="15dp"
+        android:background="#15ffffff"
+        android:gravity="center"
+        android:text="Recover Account"
+        android:textColor="@color/blue_fantasea"
+        android:textSize="35dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.038" />
+
+    <TextView
+        android:id="@+id/emailRecoverText"
+        android:layout_width="216dp"
+        android:layout_height="22dp"
+        android:layout_margin="15dp"
+        android:layout_marginTop="60dp"
+        android:background="#15ffffff"
+        android:gravity="center"
+        android:text="Enter your email address"
+        android:textColor="@color/black"
+        android:textSize="15dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/recoverAccountText"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/alreadyHaveRecover"
+        android:layout_width="257dp"
+        android:layout_height="45dp"
+        android:layout_marginBottom="124dp"
+        android:backgroundTint="#FFFFFF"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="Already have an account?"
+        android:textAllCaps="false"
+        android:textColor="@color/blue_fantasea"
+        android:textStyle="bold"
+        app:cornerRadius="100dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.564"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:layout_width="37dp"
+        android:layout_height="35dp"
+        android:background="@drawable/backbutton"
+        android:onClick="backButtonRecover"
+        app:backgroundTint="#0D67B5"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/recoverAccountText"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.057" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/emailAdRecoveryLayout"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:layout_width="340dp"
+        android:layout_height="80dp"
+        android:hint="Email Address"
+        app:boxStrokeColor="@color/orange"
+        app:hintTextColor="@color/orange"
+        app:layout_constraintBottom_toTopOf="@+id/alreadyHaveRecover"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.492"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/emailRecoverText"
+        app:layout_constraintVertical_bias="0.053">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/emailAdRecoveryText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/loginButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:backgroundTint="@color/blue_fantasea"
+        android:text="Submit request"
+        android:onClick="btnSubmit"
+        app:cornerRadius="100dp"
+        app:iconGravity="textStart"
+        app:layout_constraintBottom_toTopOf="@+id/alreadyHaveRecover"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.537"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/emailAdRecoveryLayout"
+        app:layout_constraintVertical_bias="0.06" />
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toTopOf="@+id/alreadyHaveRecover"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/loginButton"
+        app:layout_constraintVertical_bias="0.522" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

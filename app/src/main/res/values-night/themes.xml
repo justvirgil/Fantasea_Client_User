@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.FANTASEAV2" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/blue_fantasea</item>
+        <item name="colorPrimaryVariant">@color/blue_fantasea</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/orange</item>
+        <item name="colorSecondaryVariant">@color/orange</item>
+        <item name="colorOnSecondary">@color/orange</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">#00000000</item>
+        <!-- Customize your theme here. -->
+
+    </style>
+</resources>

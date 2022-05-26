@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2 FOR CLIENT/FANTASEAV2/app/src/main/res/drawable/gradient_activtity_background.xml" value="0.38385416666666666" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2 FOR CLIENT/FANTASEAV2/app/src/main/res/drawable/gradient_background.xml" value="0.38385416666666666" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2 FOR CLIENT/FANTASEAV2/app/src/main/res/drawable/gradient_card.xml" value="0.38385416666666666" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2 FOR CLIENT/FANTASEAV2/app/src/main/res/drawable/gradient_login.xml" value="0.25052083333333336" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2 FOR CLIENT/FANTASEAV2/app/src/main/res/drawable/gradient_tool_gradient.xml" value="0.38385416666666666" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2 FOR CLIENT/FANTASEAV2/app/src/main/res/layout/activity_booking.xml" value="0.36770833333333336" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2 FOR CLIENT/FANTASEAV2/app/src/main/res/layout/activity_create_message.xml" value="0.36770833333333336" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2 FOR CLIENT/FANTASEAV2/app/src/main/res/layout/activity_dashboard.xml" value="0.36770833333333336" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2 FOR CLIENT/FANTASEAV2/app/src/main/res/layout/activity_feedback.xml" value="0.36770833333333336" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2 FOR CLIENT/FANTASEAV2/app/src/main/res/layout/activity_gallery.xml" value="0.36770833333333336" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2 FOR CLIENT/FANTASEAV2/app/src/main/res/layout/activity_gallery2.xml" value="0.36770833333333336" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2 FOR CLIENT/FANTASEAV2/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2 FOR CLIENT/FANTASEAV2/app/src/main/res/layout/activity_messages.xml" value="0.36770833333333336" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2 FOR CLIENT/FANTASEAV2/app/src/main/res/layout/activity_payment_method.xml" value="0.36770833333333336" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2 FOR CLIENT/FANTASEAV2/app/src/main/res/layout/activity_profile.xml" value="0.36770833333333336" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2 FOR CLIENT/FANTASEAV2/app/src/main/res/layout/activity_sign_up.xml" value="0.36770833333333336" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2 FOR CLIENT/FANTASEAV2/app/src/main/res/layout/activity_transaction2.xml" value="0.36770833333333336" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2 FOR CLIENT/FANTASEAV2/app/src/main/res/layout/messagescardview.xml" value="0.36770833333333336" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2 FOR CLIENT/FANTASEAV2/app/src/main/res/layout/pumpboatcardview.xml" value="0.36770833333333336" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2 FOR CLIENT/FANTASEAV2/app/src/main/res/layout/transactioncardview.xml" value="0.36770833333333336" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2 FOR CLIENT/FANTASEAV2/app/src/main/res/layout/travelpicturescardview.xml" value="0.36770833333333336" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2 FUNCTIONAL/FANTASEAV2 FOR CLIENT/FANTASEAV2/app/src/main/res/drawable/gradient_background.xml" value="0.38385416666666666" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2 FUNCTIONAL/FANTASEAV2 FOR CLIENT/FANTASEAV2/app/src/main/res/drawable/gradient_login.xml" value="0.38385416666666666" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2 FUNCTIONAL/FANTASEAV2 FOR CLIENT/FANTASEAV2/app/src/main/res/drawable/login.xml" value="0.38385416666666666" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2 FUNCTIONAL/FANTASEAV2 FOR CLIENT/FANTASEAV2/app/src/main/res/layout/activity_dashboard.xml" value="0.36770833333333336" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2 FUNCTIONAL/FANTASEAV2 FOR CLIENT/FANTASEAV2/app/src/main/res/layout/activity_from_message.xml" value="0.36770833333333336" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2 FUNCTIONAL/FANTASEAV2 FOR CLIENT/FANTASEAV2/app/src/main/res/layout/activity_notification.xml" value="0.36770833333333336" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2 FUNCTIONAL/FANTASEAV2 FOR CLIENT/FANTASEAV2/app/src/main/res/layout/activity_notification_message.xml" value="0.36770833333333336" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2 FUNCTIONAL/FANTASEAV2 FOR CLIENT/FANTASEAV2/app/src/main/res/layout/activity_payment_method.xml" value="0.36770833333333336" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2 FUNCTIONAL/FANTASEAV2 FOR CLIENT/FANTASEAV2/app/src/main/res/layout/activity_profile.xml" value="0.30932971014492755" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2 FUNCTIONAL/FANTASEAV2 FOR CLIENT/FANTASEAV2/app/src/main/res/layout/activity_pump_boat_profile.xml" value="0.36770833333333336" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2 FUNCTIONAL/FANTASEAV2 FOR CLIENT/FANTASEAV2/app/src/main/res/layout/activity_sign_up.xml" value="0.30932971014492755" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2 FUNCTIONAL/FANTASEAV2 FOR CLIENT/FANTASEAV2/app/src/main/res/layout/activity_transaction.xml" value="0.30932971014492755" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2 FUNCTIONAL/FANTASEAV2 FOR CLIENT/FANTASEAV2/app/src/main/res/layout/activity_transaction2.xml" value="0.30932971014492755" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2 FUNCTIONAL/FANTASEAV2 FOR CLIENT/FANTASEAV2/app/src/main/res/layout/activity_traveldestination.xml" value="0.36770833333333336" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2 FUNCTIONAL/FANTASEAV2 FOR CLIENT/FANTASEAV2/app/src/main/res/layout/transactioncardview.xml" value="0.36770833333333336" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2/app/src/main/res/layout/activity_booking.xml" value="0.371875" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2/app/src/main/res/layout/activity_google.xml" value="0.371875" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2/app/src/main/res/layout/activity_payment_method.xml" value="0.371875" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2/app/src/main/res/layout/activity_traveldestination.xml" value="0.371875" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2/app/src/main/res/layout/pumpboatcardview.xml" value="0.371875" />
+        <entry key="..\:/JV FILES/BSIT-4/BSIT-4B 2ND SEM/APPLICATION FANTASEA/FANTASEAV2/app/src/main/res/layout/transactioncardview.xml" value="0.371875" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/drawable/backbutton.xml" value="0.3880208333333333" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/drawable/bookonline_icon.xml" value="0.3880208333333333" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/drawable/custom_input.xml" value="0.3880208333333333" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/drawable/delete_icon.xml" value="0.3880208333333333" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/drawable/gradient_activtity_background.xml" value="0.3880208333333333" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/drawable/gradient_background.xml" value="0.3880208333333333" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/drawable/gradient_tool_gradient.xml" value="0.3880208333333333" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/drawable/item.xml" value="0.3880208333333333" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/drawable/login.xml" value="0.3880208333333333" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/drawable/message_icon.xml" value="0.3880208333333333" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/drawable/profile_icon.xml" value="0.3880208333333333" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/drawable/swap_icon.xml" value="0.3880208333333333" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/drawable/transaction_icon.xml" value="0.3880208333333333" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/layout/activity_aboutus.xml" value="0.371875" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/layout/activity_booking.xml" value="0.371875" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/layout/activity_booking_receipt.xml" value="0.3491847826086957" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/layout/activity_create_message.xml" value="0.371875" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/layout/activity_dashboard.xml" value="0.33" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/layout/activity_from_message.xml" value="0.371875" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/layout/activity_gallery.xml" value="0.371875" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/layout/activity_gallery2.xml" value="0.36770833333333336" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/layout/activity_google.xml" value="0.371875" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/layout/activity_main.xml" value="0.371875" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/layout/activity_messages.xml" value="0.33" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/layout/activity_notification.xml" value="0.371875" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/layout/activity_payment_method.xml" value="0.33" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/layout/activity_profile.xml" value="0.371875" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/layout/activity_recover.xml" value="0.33" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/layout/activity_recover_account.xml" value="0.371875" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/layout/activity_report_message.xml" value="0.36770833333333336" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/layout/activity_sign_up.xml" value="0.371875" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/layout/activity_transaction.xml" value="0.3578125" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/layout/activity_transactions.xml" value="0.371875" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/layout/activity_traveldestination.xml" value="0.371875" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/layout/content_recover_account.xml" value="0.371875" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/layout/content_transactions.xml" value="0.371875" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/layout/fragment_first.xml" value="0.371875" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/layout/fragment_second.xml" value="0.371875" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/layout/fragment_third.xml" value="0.371875" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/layout/header.xml" value="0.33" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/layout/item.xml" value="0.371875" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/layout/messagescardview.xml" value="0.371875" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/layout/pumpboatcardview.xml" value="0.371875" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/layout/transactioncardview.xml" value="0.371875" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/layout/travelpicturescardview.xml" value="0.371875" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/menu/main_menu.xml" value="0.371875" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/menu/nav_menu.xml" value="0.2564814814814815" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/menu/search.xml" value="0.371875" />
+        <entry key="..\:/JV FILES/BSIT-4/FANTASEAV2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3880208333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

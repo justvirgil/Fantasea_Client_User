@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "580000967593",
+    "firebase_url": "https://fantasea-4140a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fantasea-4140a",
+    "storage_bucket": "fantasea-4140a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580000967593:android:f8ed24c7e3ab129d65f2b8",
+        "android_client_info": {
+          "package_name": "com.example.androidintents.fantaseav2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580000967593-djg76q97i2ijactpbc2ipld5eec0erug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNFYRH0ioN68v4axjtWaHudEf5A3K0shI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580000967593-djg76q97i2ijactpbc2ipld5eec0erug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
