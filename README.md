@@ -1,10 +1,12 @@
 # Fantasea_Client_User
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/78993457/206900332-7df03b42-1d3d-4d61-8651-4d11f2709ff1.png" width="230" hspace="5"/>
-  <img src="https://user-images.githubusercontent.com/78993457/206900335-2714518f-d623-418b-adb4-9cb9c3338b2c.png" width="230" hspace="5"/> 
-  <img src="https://user-images.githubusercontent.com/78993457/206900339-4c035a23-d968-44ce-8929-225e70e51ec7.png" width="230" hspace="5"/>
-  <img src="https://user-images.githubusercontent.com/78993457/206900337-abc15e38-0310-42f8-9ff1-9d45866a4dfa.png" width="230" hspace="5" />
+  <img src="https://user-images.githubusercontent.com/78993457/206903018-a85fba8e-f954-4d53-b842-d57cf18362e7.png" width="250" hspace="5"/>
+  <img src="https://user-images.githubusercontent.com/78993457/206903009-1513b276-0d1e-4cd5-b964-390ea7a56c22.png" width="250" hspace="5"/>
+  <img src="https://user-images.githubusercontent.com/78993457/206900332-7df03b42-1d3d-4d61-8651-4d11f2709ff1.png" width="250" hspace="5"/>
+  <img src="https://user-images.githubusercontent.com/78993457/206900335-2714518f-d623-418b-adb4-9cb9c3338b2c.png" width="250" hspace="5"/> 
+  <img src="https://user-images.githubusercontent.com/78993457/206900339-4c035a23-d968-44ce-8929-225e70e51ec7.png" width="250" hspace="5"/>
+  <img src="https://user-images.githubusercontent.com/78993457/206900337-abc15e38-0310-42f8-9ff1-9d45866a4dfa.png" width="250" hspace="5"/>
 </p>
 
 ## About The Project
@@ -45,9 +47,5 @@ This program was done with the use of the following:
   <img src="https://user-images.githubusercontent.com/78993457/206902233-823ae1a6-7d6a-4956-8980-f9f5e1e941dd.jpg" width="100%" height="600" hspace="5"/> 
   <img src="https://user-images.githubusercontent.com/78993457/206901595-e3d6feb8-8c99-4044-8de2-aa0c906269be.jpg" width="100%" height="600" hspace="5"/>
 </p>
-
-
-
-
 
 
